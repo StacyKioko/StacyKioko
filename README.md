@@ -3,7 +3,7 @@
 <p>👯 I’m looking to collaborate on <strong>impactful projects.</strong><br>🌱 I’m currently learning <strong>Bootstrap, Angular2+, React, Vue, Javascript and nodejs.</strong></p>
 
 
-## Socials:
+# Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/StacyKioko) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kiokoedu) 
 
 # Tech Stack:
@@ -14,7 +14,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=StacyKioko&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=StacyKioko&theme=gotham&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## If you are looking to be inspired today:
+# If you are looking to be inspired today:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
