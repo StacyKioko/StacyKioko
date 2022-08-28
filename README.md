@@ -1,13 +1,19 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Stacy Mueke Kioko</h1>
+<h3 align="center">A frontend developer based in Kenya.</h3>
 
-🤔 I am Stacy Kioko, an undergradute student with a bachelors degree in International Business and trade, pivoting to tech. I am currently learning different languages; 
-CSS, Javascript, python etc, that will make me become a full stack developer in the near future. My passion for development started when I was doing my thesis paper and 
-I realized that the finance solutions that exist in Africa are not inclusive or well curated to fit the different profiles that exist in the continent. I therefore
-would like to develop/contribute to impacful solutions that will serve the needs and interests of as many people as possible by applying the principles of Human Centered 
-design as well as full stack development.
+- 🌱 I’m currently learning **Bootstrap, Angular2+, React, Vue, Javascript and nodejs.**
 
-💬 I am well versed with practical HCD knowlege and look forward to learning different technical languages.
+- 👯 I’m looking to collaborate on **Impactful fintech projects.**
 
-📫 To reach me, email - stacy.mueke22@gmail.com
+- 📫 How to reach me **stacy.mueke22@gmail.com**
 
--------->>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stacykioko&show_icons=true&locale=en" alt="stacykioko" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stacykioko&" alt="stacykioko" /></p>
