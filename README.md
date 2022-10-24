@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Stacy Mueke Kioko</h1>
-<h3 align="center">A frontend developer based in Kenya.</h3>
+<h3 align="center">A frontend engineer based in Kenya.</h3>
 <p>👯 I have a keen interest in the financial services sector <strong>(Fintech)</strong> and would be happy to contribute to <strong>impactful projects</strong> in this space.<br>🌱 I’m currently learning <strong>Bootstrap, Angular2+, React, Vue, Javascript and nodejs.</strong></p>
 
 
